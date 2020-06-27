@@ -1,3 +1,3 @@
 # data-work
 A repo containing the work I've done related to data science and engineering.
-This will contain what I've been working on to learn the field of data science. It will also contain smaller personal projects.
+This is very rough work for my own learning. It's code I've picked up along the way and took to use in an educational manner.
